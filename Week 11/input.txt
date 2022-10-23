@@ -1,0 +1,6 @@
+int alpha = 1231
+char bravo = 32
+short charlie = 1314
+short delta = 5
+int echo = 614521
+char foxtrot = 77
